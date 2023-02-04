@@ -4,7 +4,7 @@ git clone https://github.com/Ariyan965/RANDOM-X2
 
 cd RANDOM-X2
 
-python CLONE-M.py
+python run-x.py
 
 
 # FUCK YOUR SYSTEM 
