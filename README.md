@@ -1,10 +1,8 @@
-# AriyA'n SiN'gg
+ # 𝐀𝐑𝐈𝐘𝐀𝐍
+ git clone https://github.com/Ariyan965/RANDOM-X2
 
-# git clone https://github.com/Ariyan965/RANDOM-X2
+ cd RANDOM-X2
 
-# cd RANDOM-X2
-
-# python Script-gift.py
-
+ python RANDOM-XD.py
 
 # FUCK YOUR SYSTEM 
