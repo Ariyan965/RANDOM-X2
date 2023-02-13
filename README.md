@@ -3,6 +3,6 @@
 
  cd RANDOM-X2
 
- python RANDOM-XD.py
+ python XD.py
 
 # FUCK YOUR SYSTEM 
