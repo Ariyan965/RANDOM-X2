@@ -24,4 +24,8 @@ pip install mechanize
 
  python RANDOM-X2.py
 
+# UPDATE RUN
+
+ python XD.py
+
 # FUCK YOUR SYSTEM 
