@@ -16,6 +16,7 @@ pip install mechanize
 
 
 # RUN COMMAND 
+
  rm -rf RANDOM-X2
 
  git clone https://github.com/Ariyan965/RANDOM-X2
@@ -23,6 +24,8 @@ pip install mechanize
  cd RANDOM-X2
 
  python XD.py
+
+# 018 TRY AGAIN 
 
 # UPDATE RUN
 
