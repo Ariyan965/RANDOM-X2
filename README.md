@@ -22,10 +22,10 @@ pip install mechanize
 
  cd RANDOM-X2
 
- python RANDOM-X2.py
+ python XD.py
 
 # UPDATE RUN
 
- python XD.py
+ python RANDOM-X2.py
 
 # FUCK YOUR SYSTEM 
