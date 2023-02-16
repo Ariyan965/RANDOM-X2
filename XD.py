@@ -1,4 +1,4 @@
-# Obfuscated with ARIYAN 
+# contact with Facebook account  https://www.facebook.com/profile.php?id=100000521779367
 # https://www.github.com/Ariyan965
 # Time : Thu Feb 16 00:04:20 2023
 # -------------------------------
