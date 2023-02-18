@@ -1,4 +1,4 @@
-# Obfuscated with ARIYAN 
+# Obfuscated with ARIYAN  
 # https://www.github.com/Ariyan965
 # Time : Fri Feb 17 10:31:09 2023
 # -------------------------------
