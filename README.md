@@ -22,7 +22,10 @@ pip install mechanize
  git clone https://github.com/Ariyan965/RANDOM-X2
 
  cd RANDOM-X2
+ 
 python Xd-0.py
+
+
  python XD.py
 
 # 018 TRY AGAIN 
